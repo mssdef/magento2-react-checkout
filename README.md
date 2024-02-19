@@ -1,6 +1,7 @@
 # Hyvä Themes - React Checkout
 
-A Highly Customizable Checkout for Magento 2, Built with React.
+A Highly Customizable Checkout for Magento 2, Built with React
+https://www.youtube.com/watch?v=2fXzadvYRUc
 
 # [![Hyvä Themes](https://github.com/hyva-themes/magento2-react-checkout/blob/documentation/docs/images/logo-hyva.svg)](https://hyva.io/)
 
